@@ -17,3 +17,12 @@ A full-stack E-Commerce application built using the MERN Stack (MongoDB, Express
 - MongoDB
 - Tailwind CSS
 - JWT
+
+ **Live Demo:** https://ecomm-platform.netlify.app
+
+ ## ✨ Features
+- User Authentication
+- Product Browsing
+- Shopping Cart
+- Admin Dashboard
+- Responsive UI
